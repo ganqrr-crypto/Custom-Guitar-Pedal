@@ -44,3 +44,10 @@ it features a simple enclosure and a simple pcb and isn't too complex.
 | PCB | $1.35 |
 | Shipping | €5.90 / $6.61 |
 | **Total listed in original BOM** | **€22.51 / $25.22** |
+
+
+here are some photos : 
+
+<img width="1093" height="810" alt="Screenshot 2026-10-22 185237" src="https://github.com/user-attachments/assets/f1273f4e-e53b-47c8-8e8b-5ac1787ebcd7" />
+<img width="2160" height="1174" alt="Screenshot 2026-10-22 182725" src="https://github.com/user-attachments/assets/d4dde257-861e-4325-bdfd-e52186549f8e" />
+<img width="2735" height="1582" alt="Screenshot 2026-10-23 195042" src="https://github.com/user-attachments/assets/0f39674b-aa9f-4141-ba46-e67608a9c457" />
